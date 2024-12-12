@@ -1,6 +1,6 @@
 {
   "name": "@winner-fed/plugin-viewport",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "https://github.com/winjs-dev/winjs-plugin-viewport",
   "license": "MIT",
   "type": "module",
