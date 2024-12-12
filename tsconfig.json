@@ -5,7 +5,7 @@
     "target": "ES2019",
     "lib": ["DOM", "ESNext"],
     "module": "commonjs",
-    "strict": true,
+    "strict": false,
     "declaration": true,
     "isolatedModules": true,
     "esModuleInterop": true,

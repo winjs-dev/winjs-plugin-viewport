@@ -1,8 +1,8 @@
-import { defineConfig } from 'win';
+import { defineConfig } from '@winner-fed/winjs';
 
 export default defineConfig({
   plugins: ['../src'],
-  example: {
-    foo: 'bar',
+  viewport: {
+    appSelector: '#root',
   },
 });

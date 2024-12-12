@@ -1,7 +1,7 @@
 {
-  "name": "winjs-plugin-example",
-  "version": "0.0.1",
-  "repository": "https://github.com/winjs-dev/winjs-plugin-template",
+  "name": "@winner-fed/plugin-viewport",
+  "version": "0.0.0",
+  "repository": "https://github.com/winjs-dev/winjs-plugin-viewport",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -27,10 +27,14 @@
   "simple-git-hooks": {
     "pre-commit": "npm run lint:write"
   },
+  "dependencies": {
+    "postcss-mobile-forever": "^4.3.1"
+  },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
     "@playwright/test": "^1.49.0",
     "@winner-fed/winjs": "^0.11.21",
+    "@winner-fed/utils": "^0.11.21",
     "@rslib/core": "^0.1.1",
     "@types/node": "^22.10.1",
     "playwright": "^1.49.0",
@@ -38,7 +42,8 @@
     "typescript": "^5.7.2"
   },
   "peerDependencies": {
-    "@winner-fed/winjs": "^0.11.21"
+    "@winner-fed/winjs": "^0.11.21",
+    "@winner-fed/utils": "^0.11.21"
   },
   "peerDependenciesMeta": {
     "@winner-fed/utils": {
