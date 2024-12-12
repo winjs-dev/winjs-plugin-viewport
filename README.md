@@ -69,7 +69,7 @@ export default {
 
 ### 默认配置参数
 
-```js
+```json
 {
   "viewportWidth": 750,
   "maxDisplayWidth": null,
