@@ -28,19 +28,19 @@
     "pre-commit": "npm run lint:write"
   },
   "dependencies": {
-    "postcss-mobile-forever": "^4.3.1"
+    "postcss-mobile-forever": "^4.3.2"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
     "@playwright/test": "^1.49.1",
-    "@winner-fed/winjs": "^0.11.22",
-    "@winner-fed/utils": "^0.11.22",
-    "@rsbuild/core": "^1.1.10",
-    "@rslib/core": "^0.1.4",
-    "@types/node": "^22.10.2",
+    "@winner-fed/winjs": "^0.12.2",
+    "@winner-fed/utils": "^0.12.2",
+    "@rsbuild/core": "^1.1.14",
+    "@rslib/core": "^0.3.2",
+    "@types/node": "^22.10.7",
     "playwright": "^1.49.1",
     "simple-git-hooks": "^2.11.1",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.3"
   },
   "peerDependencies": {
     "@rsbuild/core": "1.x",
@@ -55,7 +55,7 @@
       "optional": true
     }
   },
-  "packageManager": "pnpm@9.15.0",
+  "packageManager": "pnpm@9.15.4",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
