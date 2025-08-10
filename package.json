@@ -28,7 +28,7 @@
     "pre-commit": "npm run lint:write"
   },
   "dependencies": {
-    "postcss-mobile-forever": "^4.4.0"
+    "postcss-mobile-forever": "^5.0.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
