@@ -31,7 +31,7 @@
     "postcss-mobile-forever": "^4.4.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
+    "@biomejs/biome": "^2.1.4",
     "@playwright/test": "^1.54.2",
     "@winner-fed/winjs": "^0.16.10",
     "@winner-fed/utils": "^0.16.10",
