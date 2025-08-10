@@ -32,15 +32,15 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@playwright/test": "^1.50.1",
-    "@winner-fed/winjs": "^0.13.4",
-    "@winner-fed/utils": "^0.13.4",
-    "@rsbuild/core": "^1.2.10",
-    "@rslib/core": "^0.5.0",
-    "@types/node": "^22.13.4",
-    "playwright": "^1.50.1",
-    "simple-git-hooks": "^2.11.1",
-    "typescript": "^5.7.3"
+    "@playwright/test": "^1.54.2",
+    "@winner-fed/winjs": "^0.16.10",
+    "@winner-fed/utils": "^0.16.10",
+    "@rsbuild/core": "^1.4.15",
+    "@rslib/core": "^0.11.2",
+    "@types/node": "^22.17.1",
+    "playwright": "^1.54.2",
+    "simple-git-hooks": "^2.13.1",
+    "typescript": "^5.9.2"
   },
   "peerDependencies": {
     "@rsbuild/core": "1.x",
